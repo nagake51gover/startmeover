@@ -1,5 +1,0 @@
-# 全てのHTMLファイル
-*.html diff=sjis
- 
-# 全てのtxtファイル
-*.txt diff=sjis
