@@ -1,2 +1,0 @@
-# startmeover
-Netlifyconnect
