@@ -1,2 +1,5 @@
+gems:
+  - jekyll-sitemap
+  
 plugins:
 – jekyll-sitemap
